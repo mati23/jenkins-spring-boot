@@ -1,0 +1,8 @@
+com/mateus/entity/ThemeParkRide.java
+ com.mateus.entity.ThemeParkRide
+com/mateus/controller/ThemeParkRideController.java
+ com.mateus.controller.ThemeParkRideController
+com/mateus/repository/ThemeParkRideRepository.java
+ com.mateus.repository.ThemeParkRideRepository
+com/mateus/ThemeParkApplication.java
+ com.mateus.ThemeParkApplication
